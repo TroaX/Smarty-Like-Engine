@@ -1,5 +1,7 @@
 <?php
- $SLikeEngine = new Class() {
+// Written by Dennis "reVerB" Rönnau
+// This software is under the GNU-GPL v3 License 
+$SLikeEngine = new Class() {
     private $CompiledPath = "";
     private $TemplatePath = "";
     private $SubTemplatePath = "";
